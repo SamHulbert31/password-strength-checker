@@ -1,4 +1,4 @@
-readme_content = """
+
 # Password Strength Checker
 
 Welcome to my first project: a simple yet functional **Password Strength Checker**. This tool utilises **HTML**, **CSS**, and **JavaScript** to create a basic webpage that helps users assess the strength of their passwords.
