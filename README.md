@@ -34,4 +34,4 @@ Welcome to my first project: a simple yet functional **Password Strength Checker
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/password-strength-checker.git
+   git clone https://github.com/SamHulbert31/password-strength-checker.git
